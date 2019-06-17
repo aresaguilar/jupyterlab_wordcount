@@ -1,0 +1,13 @@
+.wordCountButton .jp-ToolbarButtonComponent-icon {
+    color: rgb(96, 96, 96);
+}
+
+.jp-wordCountWidget {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.jp-wordCount {
+    margin: auto;
+}
